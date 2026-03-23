@@ -17,14 +17,23 @@ date-added: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
 
 # $FOAM_TITLE
 
-## Bibliographic Info
+## BibTeX Entry
 
-- **Authors:**
-- **Year:**
-- **Title:**
-- **Journal/Publisher:**
-- **DOI:**
-- **URL:**
+Copy this block directly into `.bib` file for LaTeX.
+```bibtex
+@article{CITEKEY,
+  author    = {Lastname, Firstname and Lastname, Firstname},
+  title     = {},
+  journal   = {},
+  year      = {},
+  volume    = {},
+  number    = {},
+  pages     = {},
+  doi       = {},
+  url       = {},
+  publisher = {}
+}
+```
 
 ## Summary
 
@@ -32,7 +41,7 @@ date-added: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
 
 ## Key Contributions
 
-- (What is new or important about this source?)
+- (What stands out about this source?)
 
 ## Concepts Extracted
 
