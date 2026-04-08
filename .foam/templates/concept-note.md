@@ -29,7 +29,7 @@ date-created: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
 
 ## Open Questions
 
-- (What do you not yet understand about this concept?)
+- 
 
 ---
 

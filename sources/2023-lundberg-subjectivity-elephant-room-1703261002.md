@@ -15,7 +15,7 @@ citekey: "Lundberg2023what"
 date-added: 2026-03-17
 ---
 
-# RES-2023-lundberg-subjectivity-elephant-room-1703261002
+# 2023-lundberg-subjectivity-elephant-room-1703261002
 
 ## BibTeX Entry
 

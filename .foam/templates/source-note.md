@@ -37,23 +37,30 @@ Copy this block directly into `.bib` file for LaTeX.
 
 ## Summary
 
-(Write a 2-4 sentence summary of the source in your own words.)
 
-## Key Contributions
+## Gap (Why?) 
 
-- (What stands out about this source?)
+- 
 
-## Concepts Extracted
+## Contributions (What?)
 
-- (Link to concept notes derived from this source, e.g. [[concept-name]])
+- 
 
-## Relevant Quotes or Data
+### Concepts Extracted
 
-- (Brief paraphrased notes with page numbers if applicable.)
+- 
 
-## My Reactions
+### Relevant Quotes or Data
 
-- (Your thoughts, questions, disagreements.)
+- 
+
+### My thoughts
+
+- 
+
+## Methodology (How?)
+
+- 
 
 ---
 

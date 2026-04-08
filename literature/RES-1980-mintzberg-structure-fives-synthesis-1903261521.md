@@ -1,34 +1,34 @@
 ---
-type: random
+type: literature
 tags:
-  - inbox
-  - unprocessed
-date-captured: 2026-03-23
+  - literature
+  - accessible-text
+  - mintzberg
+citekey: "1903261521"
+source-note: "[[1980-mintzberg-structure-fives-synthesis-1903261521]]"
+original-pdf: ""
+converted-on: 2026-04-08
+conversion-tool: "claude"
 ---
 
-# mintzberg-1980-structurein5s-accessible
+# RES-1980-mintzberg-structure-fives-synthesis-1903261521
 
-```bibtex
-@article{Mintzberg1980Structure,
-  author    = {Mintzberg, Henry},
-  title     = {Structure in 5's: A Synthesis of the Research on Organization Design},
-  journal   = {Management Science},
-  year      = {1980},
-  volume    = {26},
-  number    = {3},
-  pages     = {322--341},
-  month     = mar,
-  publisher = {Institute for Operations Research and the Management Sciences (INFORMS)},
-  doi       = {10.1287/mnsc.26.3.322},
-  url       = {https://doi.org/10.1287/mnsc.26.3.322},
-  issn      = {0025-1909}
-}
-```
+## Conversion Metadata
+
+- **Citekey:** 1903261521 
+- **Source note:** [[1980-mintzberg-structure-fives-synthesis-1903261521]]
+- **Original PDF location:** [google drive](https://drive.google.com/file/d/1i521hGH1uuaps7Ycoip0CAsJ4qCzXmhC/view?usp=sharing)
+- **Conversion date:** 2026-04-08
+- **Conversion tool:** #ai #claude  
+
 ---
-Structure in 5's: A Synthesis of the Research on Organization Design
-Author: Henry Mintzberg  
-Published in: Management Science, Vol. 26, No. 3, March 1980, pp. 322–341  
-Affiliation: McGill University
+
+## Full Text
+
+# Structure in 5's: A Synthesis of the Research on Organization Design
+## Author: Henry #mintzberg  
+### Published in: Management Science, Vol. 26, No. 3, March 1980, pp. 322–341  
+### Affiliation: McGill University
 ---
 > **Accessibility note:** This document is a screen-reader-optimised conversion of the original journal article. All figures have been replaced with detailed plain-text descriptions. Tables are rendered in accessible markdown format. Page numbers from the original journal publication are indicated in square brackets, e.g., [p. 322].
 ---
@@ -72,7 +72,7 @@ Standardisation of outputs: the work is coordinated by the imposition (again, of
 Standardisation of skills: the work is coordinated by the internalisation by individuals of standard skills and knowledge, usually before they begin to do the work.
 Mutual adjustment: individuals coordinate their own work by communicating informally with each other.
 ---
-2. The Design Parameters and Contingency Factors [p. 325–328]
+1. The Design Parameters and Contingency Factors [p. 325–328]
 Design Parameters [p. 325–326]
 The design parameters constitute the levers that managers can pull to affect the division of labour and coordination. They are:
 Job specialisation — the number of tasks in a given job and the worker's control over these tasks.
@@ -101,7 +101,7 @@ Technical system: A highly regulating technical system (one that controls the wo
 Environment: Stable environments encourage formalisation and standardisation. Complex environments tend to lead to decentralisation. Hostile environments may cause temporary centralisation. Diverse environments encourage market-based grouping at high levels.
 Power: External control appears to increase formalisation and centralisation. The need for power of various members can influence the distribution of decision-making authority. Fashion has also been shown to have an influence on structure.
 ---
-3. The Configurations of Structure [p. 328–338]
+1. The Configurations of Structure [p. 328–338]
 The congruence hypothesis links organisational effectiveness to the fit between a given design parameter and a given contingency factor. But a second hypothesis is also possible — the configuration hypothesis — that effective structuring requires an internal consistency among the design parameters.
 Combining these two hypotheses yields a third: the extended configuration hypothesis — that effective structuring requires a consistency among the design parameters and the contingency factors together. This invites the identification of natural clusters or configurations of design parameters together with contingency factors.
 Five such configurations can be identified.
@@ -185,7 +185,7 @@ The Adhocracy coordinates primarily by mutual adjustment among all of its parts,
 Two kinds of Adhocracy can be distinguished. In the Operating Adhocracy, the organisation innovates and solves problems directly on behalf of its clients (e.g., advertising agencies, consulting firms engaged in creative work). In the Administrative Adhocracy, the organisation undertakes projects to serve itself — the administrative component operates as an Adhocracy while the operating core is either truncated (work contracted out) or separated and managed as a Machine Bureaucracy (as in automated production firms).
 Adhocracies are found in complex, dynamic environments — for example, project-based aerospace firms, film production companies, research laboratories, and temporary task forces. They are associated with youth (Operating Adhocracies in particular are vulnerable structures — they can never be sure where their next project will come from). Fashion is also an important factor: emphasis on expertise, organic and matrix structure, teams and task forces, decentralisation without power concentration, sophisticated and automated technical systems — all characteristics of Adhocracy — are very much in vogue.
 ---
-4. Beyond Five [p. 338–339]
+1. Beyond Five [p. 338–339]
 The five configurations constitute a typology of ideal or pure types. Each configuration is a simplification, understating the true complexity of all but the simplest organisational structures. And yet, the research literature suggests that in many cases one of the five pulls discussed earlier dominates the other four in an organisation, with the result that its structure is drawn toward one of the configurations.
 Other structures emerge differently. Some appear to be in transition from one pure type to another, in response to a changed situation. Others exhibit structures that can be described as hybrids of the configurations, perhaps because different forces pull them toward different pure types. The symphony orchestra, for example, seems to use a combination of Simple Structure and Professional Bureaucracy: it hires highly trained musicians and relies largely on their standardised skills to produce its music, yet it also requires a strong, sometimes autocratic, leader to weld them into a tightly coordinated unit.
 Other hybrids seem to be dysfunctional, as in the case of the organisation that gives its middle managers autonomy subject to performance control (as in the Divisionalised Form), but then takes it away by direct supervision (as in the Simple Structure), or that tries to be innovative but imposes bureaucratic constraints on everything it does.
@@ -262,10 +262,8 @@ Wrigley, L., "Divisional Autonomy and Diversification," unpublished doctoral dis
 End of document. Original publication: Mintzberg, H. (1980). Structure in 5's: A Synthesis of the Research on Organization Design. Management Science, 26(3), 322–341.
 Accessible markdown conversion prepared for screen reader use. All figures described in plain text. Spelling has been standardised to British English throughout to maintain consistency.
 
-## Action
-
-- [ ] Process this note
-
 ---
 
 **Backlinks:**
+
+[1980-mintzberg-structure-fives-synthesis-1903261521]: ../sources/1980-mintzberg-structure-fives-synthesis-1903261521 "1980-mintzberg-structure-fives-synthesis-1903261521"
