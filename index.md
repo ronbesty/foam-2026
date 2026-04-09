@@ -26,21 +26,22 @@ This is the master entry point for all notes.
 
 ## Tags Reference
 
-| Tag                  | Meaning                                         |
-| -------------------- | ----------------------------------------------- |
-| #source              | Source/literature note                          |
-| #concept             | Atomic concept or topic note                    |
-| #daily               | Daily log entry                                 |
-| #inbox               | Quick capture, not yet processed                |
-| #unprocessed         | Needs to be sorted into concept or source notes |
-| #ot-security         | OT/ICS cybersecurity                            |
-| #human-factors       | Human and organisational dimensions             |
-| #methods             | Research methods (qualitative, Q-method, etc.)  |
-| #review              | Currently under review or in review process     |
-| #ai                  | notes refering to use of ai                     |
-| #claude              | use of claude                                   |
-| #mintzberg           | pioneering author of organisational science     |
-| #structures-and-five | mintzberg book on describing organizations      |
+| Tag                      | Meaning                                         |
+| ------------------------ | ----------------------------------------------- |
+| #source                  | Source/literature note                          |
+| #concept                 | Atomic concept or topic note                    |
+| #daily                   | Daily log entry                                 |
+| #inbox                   | Quick capture, not yet processed                |
+| #unprocessed             | Needs to be sorted into concept or source notes |
+| #ot-security             | OT/ICS cybersecurity                            |
+| #human-factors           | Human and organisational dimensions             |
+| #methods                 | Research methods (qualitative, Q-method, etc.)  |
+| #review                  | Currently under review or in review process     |
+| #ai                      | notes refering to use of ai                     |
+| #claude                  | use of claude                                   |
+| #mintzberg               | pioneering author of organisational science     |
+| #structures-and-five     | mintzberg book on describing organizations      |
+| #it-ot-integration-study | research project                                |
 
 --- 
 
