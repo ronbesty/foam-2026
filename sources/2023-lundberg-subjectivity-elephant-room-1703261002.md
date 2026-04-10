@@ -2,8 +2,7 @@
 type: source
 tags:
   - source
-  - q-methodology
-  - subjectivity
+  - project/bep-smart-charging/methodology
 authors:
   - "Lundberg, Adrian"
   - "Fraschini, Nicola"
@@ -11,7 +10,7 @@ authors:
 year: 2023
 doi: "10.1007/s11135-022-01565-9"
 url: "https://doi.org/10.1007/s11135-022-01565-9"
-citekey: "Lundberg2023what"
+citekey: "1703261002"
 date-added: 2026-03-17
 ---
 

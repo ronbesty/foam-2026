@@ -2,8 +2,6 @@
 type: source
 tags:
   - source
-  - mintzberg
-  - structures-and-five
 authors:
   - "Henry Mintzberg"
 year: 1980

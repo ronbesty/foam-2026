@@ -2,6 +2,7 @@
 type: meeting
 tags:
   - meeting
+  - project/rescue
 date: 2026-05-28
 attendees:
   - "ronak"

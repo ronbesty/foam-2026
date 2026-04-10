@@ -2,7 +2,7 @@
 type: meeting
 tags:
   - meeting
-  - it-ot-integration-study
+  - project/it-ot-integration-study
 date: 2026-04-09
 attendees:
   - "ronak"
@@ -17,7 +17,7 @@ project: "it-ot-integration-study"
 
 - **Date:** 2026-04-09
 - **Attendees:** ronak, Simon, wolter
-- **Project/Topic:** #it-ot-integration-study
+- **Project/Topic:** it-ot-integration-study
 - **Purpose:** Discussing Wolter's comments on the interview    
 
 ## Agenda
@@ -28,7 +28,10 @@ project: "it-ot-integration-study"
 
 ## Discussion
 
--  
+- Wolter mentioned that he has no connections in the CI organizations. 
+- Ronak: Asked the question regarding two people from one company joining a interview, and how to report this in the write-up? Should we count them as two interviewee or one interview? 
+  - Simon responded by saying that it is good to count them as one interview and not two different interviewees. Two people represent one company. 
+  -          
 
 ## Decisions
 

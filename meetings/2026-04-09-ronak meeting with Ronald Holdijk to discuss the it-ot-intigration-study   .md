@@ -2,7 +2,7 @@
 type: meeting
 tags:
   - meeting
-  - ot-security
+  - project/it-ot-integration-study
 date: 2026-04-09
 attendees:
   - "ronak"
@@ -16,7 +16,7 @@ project: "it-ot-intigration-study"
 
 - **Date:** 2026-04-09
 - **Attendees:** ronak and Ronald
-- **Project/Topic:** #it-ot-integration-study
+- **Project/Topic:** it-ot-integration-study
 - **Purpose:** To figure out the ways of recruiting participants from the water sector
 
 ## Agenda
@@ -37,7 +37,7 @@ project: "it-ot-intigration-study"
 ## Action Items
 
 - [x] Scheduling the interview for 28th April 
-- [ ] Making the one pager for him to read and refer to. 
+- [ ] Making the one pager for Ronald to read and refer to. 
 
 ---
 

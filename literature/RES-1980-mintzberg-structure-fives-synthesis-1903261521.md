@@ -3,7 +3,6 @@ type: literature
 tags:
   - literature
   - accessible-text
-  - mintzberg
 citekey: "1903261521"
 source-note: "[[1980-mintzberg-structure-fives-synthesis-1903261521]]"
 original-pdf: ""
@@ -19,14 +18,14 @@ conversion-tool: "claude"
 - **Source note:** [[1980-mintzberg-structure-fives-synthesis-1903261521]]
 - **Original PDF location:** [google drive](https://drive.google.com/file/d/1i521hGH1uuaps7Ycoip0CAsJ4qCzXmhC/view?usp=sharing)
 - **Conversion date:** 2026-04-08
-- **Conversion tool:** #ai #claude  
+- **Conversion tool:** claude  
 
 ---
 
 ## Full Text
 
 # Structure in 5's: A Synthesis of the Research on Organization Design
-## Author: Henry #mintzberg  
+### Author: Henry mintzberg  
 ### Published in: Management Science, Vol. 26, No. 3, March 1980, pp. 322–341  
 ### Affiliation: McGill University
 ---
