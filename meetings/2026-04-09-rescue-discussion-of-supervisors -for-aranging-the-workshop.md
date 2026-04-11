@@ -38,8 +38,8 @@ project: "rescue"
  
 ## Decisions
 
-- Having the meeting on [[2026-04-20-rescue ga april 2026]]
-- Having the Tennet meeting on [[2026-05-28-workshop with Tennet may 2026 ]] 
+- Having the meeting on [[2026-04-20-rescue-ga-april-2026]]
+- Having the Tennet meeting on [[2026-05-28-workshop-with-Tennet-may-2026 ]] 
 - Not decided on times of a last rescue ga meeting, and one more workshop or red-blue team exercise with ENCS and Tennet.                   
 
 ---

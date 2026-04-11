@@ -24,20 +24,22 @@ This is the master entry point for all notes.
 
 ## Tags Reference
 
-| Tag                                      | Meaning                                                     |
-| ---------------------------------------- | ----------------------------------------------------------- |
-| #source                                  | Source/literature note                                      |
-| #concept                                 | Atomic concept or topic note                                |
-| #daily                                   | Daily log entry                                             |
-| #inbox                                   | Quick capture, not yet processed                            |
-| #unprocessed                             | Needs to be sorted into concept or source notes             |
-| #accessible-text                         | Literature converted to Markdown to make it accessible      |
-| #project/at-risk-user-study              | research project                                            |
-| #project/bep-smart-charging              | research project                                            |
-| #project/it-ot-integration-study         | research project                                            |
-| #project/rescue                          | main research project                                       |
-| #project/bep-smart-charging/methodology  | methodology used in this  research project (q-methodology)  |
-| #project/at-risk-user-study/related-work | Literature referred to base the argument on in this project |
+| Tag                                          | Meaning                                                    |
+| -------------------------------------------- | ---------------------------------------------------------- |
+| #source                                      | Source/literature note                                     |
+| #concept                                     | Atomic concept or topic note                               |
+| #daily                                       | Daily log entry                                            |
+| #inbox                                       | Quick capture, not yet processed                           |
+| #unprocessed                                 | Needs to be sorted into concept or source notes            |
+| #accessible-text                             | Literature converted to Markdown to make it accessible     |
+| #project/at-risk-user-study                  | research project                                           |
+| #project/bep-smart-charging                  | research project                                           |
+| #project/it-ot-integration-study             | research project                                           |
+| #project/rescue                              | main research project                                      |
+| #project/bep-smart-charging/methodology      | methodology used in this  research project (q-methodology) |
+| #project/at-risk-user-study/related-work     | Literature referred to write  the argument in this project |
+| #project/it-ot-integration-study/methodology | methodology used in this project                           |
+
 
 
 --- 
