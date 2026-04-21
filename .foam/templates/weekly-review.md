@@ -20,6 +20,7 @@ date: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
 - [ ] Clear email inbox (archive or delete)
 - [ ] Git commit and push all notes
 - [ ] Process inbox/ folder (promote or delete random notes)
+- [ ] attend to TODOIST inbox 
 
 ## Review Daily Notes
 
