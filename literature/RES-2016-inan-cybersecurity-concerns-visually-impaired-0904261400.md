@@ -3,7 +3,7 @@ type: literature
 tags:
   - literature
   - accessible-text
-  - project/at-risk-user-study/related-work
+  - project/at-risk-user-study/literature-review
 citekey: "0904261400"
 source-note: "[[2016-inan-cybersecurity-concerns-visually-impaired-0904261400]]"
 original-pdf: "[Google drive](https://drive.google.com/file/d/1YR0GBfppZnzCe3KCe_kZw5p13fZq0Q6R/view?usp=sharing)"

@@ -39,7 +39,7 @@ This is the master entry point for all notes.
 | #project/rescue                               | main research project                                      |
 | #project/bep-smart-charging/methodology       | methodology used in this  research project (q-methodology) |
 | #project/bep-smart-charging/literature-review | literature reviewed for this project                       |
-| #project/at-risk-user-study/related-work      | Literature referred to write  the argument in this project |
+| #project/at-risk-user-study/literature-review      | Literature referred to write  the argument in this project |
 | #project/it-ot-integration-study/methodology  | methodology used in this project                           |
 
 

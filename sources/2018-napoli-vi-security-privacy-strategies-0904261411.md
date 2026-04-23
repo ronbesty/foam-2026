@@ -2,7 +2,7 @@
 type: source
 tags:
   - source
-  - project/at-risk-user-study/related-work
+  - project/at-risk-user-study/literature-review
 authors:
   - "Daniela Napoli"
 year: 2018
