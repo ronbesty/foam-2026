@@ -4,8 +4,8 @@ tags:
   - meeting
 date: 2026-04-22
 attendees:
-  - ""
-project: ""
+  - "ronak"
+project: "job search"
 ---
 
 # first-interview-adyen
@@ -15,7 +15,7 @@ project: ""
 - **Date:** 2026-04-22
 - **Attendees:** Fiona and Ronak 
 - **Project/Topic:** First interview at Adyen
-- **Purpose:** Job 
+- **Purpose:** Job search 
 
 ## Agenda
 
@@ -40,7 +40,8 @@ project: ""
   - Pick-up the phone, do not hide behind emails 
   - Value proposition is to build a complete stack from scratch. (it might incur cost)   
   - Fintech industry, trust is the key 
-  
+^introduction-for-ronak
+
 - Questions to Adyen
   - What does this job role expect? 
 
