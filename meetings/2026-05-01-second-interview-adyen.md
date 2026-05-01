@@ -26,12 +26,14 @@ project: "job search"
 - Introduction  [[2026-04-22-first-interview-adyen#^introduction-for-ronak]]
 - Possible attack vectors
   - XSS: cross side scripting
-    - 
+    - Developer creates tool for internal use, and someone sends the code to hack it from customer side. 
+    - Trust gaps    
 - Automation 
-  - Use case for automation 
+  - Slack-bot, to answer security related questions
+  - Behavior tracker 
+  - CI CD pipeline 
 - Design thinking as a pitch to nail the problem
-  -     
-
+  - Empathy     
 
   - Questions to ask: 
     - What is the current biggest security culture gap that this role would be expected to address in the first year?
@@ -42,31 +44,24 @@ project: "job search"
 
 ## Discussion
 
-- 
+- Started with the short introduction. 
+- Then went into questions like what excites me about this role.   
+- Also a scenario, from a security perspective what formula will I change. 
+- Then a short question on what XSS is?
+- Ronak asked the final two questions, one is about what will I be expected to do in next one year, and second is about what automation has landed with the engineering team and what did not? 
 
 ## Decisions
 
-- 
+- Next interview (pass or fail) will know in 1 week  
+- People security team is the one who I will meet next. 
 
 ## Action Items
 
-- [ ] 
-- [ ] 
-
-## Follow-ups and Questions
-
-- 
-
-## Concepts Surfaced
-
-- (Link to concept notes that came up or should be created, e.g. [[concept-name]])
-
-## Related Sources
-
-- (Link to source notes referenced in the meeting, e.g. [[source-name]])
+- [ ] If don't hear back from the HR, to email next week 
 
 ---
 
 **Backlinks:**
 
 [2026-04-22-first-interview-adyen]: 2026-04-22-first-interview-adyen "first-interview-adyen"
+[2026-04-22-first-interview-adyen#^introduction-for-ronak]: 2026-04-22-first-interview-adyen#^introduction-for-ronak "first-interview-adyen"
