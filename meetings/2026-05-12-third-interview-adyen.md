@@ -34,6 +34,20 @@ project: "job searching"
 - Thank you so much for having me.
 - Allow me to start by saying what truly excites me about this role and why. Throughout my career to date, I have focused on finding alignment between people, process, and technology. In my current role as a PhD, I apply this experience in the context of cybersecurity for critical infrastructure, where things going wrong can mean loss of life. This experience is something I would like to bring with me to Adyen, and something that truly excites me about this role.
 
+- [link to the document with the project plan](https://docs.google.com/document/d/1z9dygOQfl85Z-vu5knqJNsxX3sPOvPhK/edit?usp=sharing&ouid=101620132268441036701&rtpof=true&sd=true)
+
+- basic things about Adyen 
+  - C-team: 
+    - Alexander Matthey (CTO)
+    - Mariëtte Swart (CRCO)
+    - The co-CEO structure (Pieter and Ingo
+    -  Founder: (June 18, 2026) by Pieter van der Does and Arnout Schuijff
+    -  Previous company: Bibit global limited sold to royal bank of the scotland
+-  
+
+
+- Core function of Adyen: 
+  -  
 
 
 ## Discussion
