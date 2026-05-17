@@ -42,38 +42,31 @@ project: "job searching"
     - Mariëtte Swart (CRCO)
     - The co-CEO structure (Pieter and Ingo
     -  Founder: (June 18, 2026) by Pieter van der Does and Arnout Schuijff
-    -  Previous company: Bibit global limited sold to royal bank of the scotland
--  
-
+    -  Previous company: Bibit global limited sold to royal bank of the scotland  
 
 - Core function of Adyen: 
-  -  
-
+  -  Payment gateway 
+  -  Payment processing (fraud detection)
+  -  Acquiring bank for businesses  
 
 ## Discussion
 
--
+- What solutions do you have for engaging people? 
+  - Hook model  
+- What Specific Interventions Do You Have for Engineers?
+  - Checklist, slack bot, culture of punishment 
+- What do you think about security of engineers?  
+  - Trust gap 
+- What makes you happy? 
+  - If things are implemented in practice  
 
 ## Decisions
 
-- 
-
-## Action Items
-
-- [ ] 
-- [ ] 
+- Next two interviews would be with Manager, and GLC team 
 
 ## Follow-ups and Questions
 
-- 
-
-## Concepts Surfaced
-
-- (Link to concept notes that came up or should be created, e.g. [[concept-name]])
-
-## Related Sources
-
-- (Link to source notes referenced in the meeting, e.g. [[source-name]])
+- Follow-up with Fiona if we do not hear in two days 
 
 ---
 
