@@ -39,34 +39,19 @@ project: "job searching"
 - Operational Tasks: We briefly touched on our team ops (like Zammad and Secmon). The team would like to understand your willingness and approach to handling these day-to-day operational tasks alongside larger cultural initiatives.
 
 - Introduction revised from [[2026-05-12-third-interview-adyen]]
-  - 
-
+- What excites me about this job.
 
 
 ## Discussion
 
--
+- Ideas on what would you execute in the upcoming days 
+- Cybersecurity day, 3 months, then what would you do for next three months?
+- Slack channel, comunication channels are not established
+- Most of the discussion revolved around how to scale up for 2000 people.    
 
 ## Decisions
 
-- 
-
-## Action Items
-
-- [ ] 
-- [ ] 
-
-## Follow-ups and Questions
-
-- 
-
-## Concepts Surfaced
-
-- (Link to concept notes that came up or should be created, e.g. [[concept-name]])
-
-## Related Sources
-
-- (Link to source notes referenced in the meeting, e.g. [[source-name]])
+- Failed the interview 
 
 ---
 
